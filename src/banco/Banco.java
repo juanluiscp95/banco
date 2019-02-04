@@ -17,6 +17,7 @@ public class Banco {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola banco");
+        System.out.println("Hola, yo soy el banco clonado después de haberse borrado");
     }
     
 }
